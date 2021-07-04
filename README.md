@@ -23,13 +23,13 @@ Now install nodemon with this command:
 ```sh
 npm i -g nodemon
 ```
-This will download nodemon globally
+This will download nodemon globally.
 
 Now install express with this command:
 ```sh
 npm i -g express
 ```
-This will download expess globally
+This will download expess globally.
 
 Also you can run the files by the help of nodemon using this command:
 ```sh
